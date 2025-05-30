@@ -24,7 +24,14 @@ JavaScript (ES6+) – Logic for state, events, and interactivity
 React Router DOM – Routing between /todos and /contact
 
 Future Improvements
-
+Persist Data
+Store todos in localStorage or a database so they stay after refreshing the page
+Form Validation & Confirmation
+Add validation and a confirmation message after submitting the contact form
+Dark Mode Toggle
+Provide a toggle to switch between light and dark themes
+Drag-and-Drop Reordering
+Let users reorder tasks visually
 
 
 
