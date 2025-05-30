@@ -16,7 +16,12 @@ Navigate
 Use the top navbar to switch between views
 On smaller screens, use the hamburger menu
 
-
+Technologies Used
+React.js – Framework for building the app interface
+HTML – Structure of the rendered components
+CSS – Custom styling (10+ rules for layout, spacing, colors, and responsiveness)
+JavaScript (ES6+) – Logic for state, events, and interactivity
+React Router DOM – Routing between /todos and /contact
 
 
 
