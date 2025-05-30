@@ -23,6 +23,8 @@ CSS – Custom styling (10+ rules for layout, spacing, colors, and responsivenes
 JavaScript (ES6+) – Logic for state, events, and interactivity
 React Router DOM – Routing between /todos and /contact
 
+Future Improvements
+
 
 
 
